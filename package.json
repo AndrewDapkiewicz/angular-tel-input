@@ -1,0 +1,23 @@
+{
+  "name": "angular-tel-input",
+  "version": "1.0.0",
+  "description": "An angular.js component supporting 10-digit telephone input fields based on the North American Numbering Plan (does not support all phone conventions).",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carlosrymer/angular-tel-input"
+  },
+  "scripts": {
+    "build" : "./node_modules/.bin/grunt"
+  },
+  "author": "Carlos Rymer",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "0.4.1",
+    "grunt-cli": "1.2.0",
+    "grunt-contrib-uglify": "0.2.2",
+    "grunt-eslint": "19.0.0"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  }
+}
