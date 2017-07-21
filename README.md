@@ -4,9 +4,13 @@ An AngularJS component supporting 10-digit telephone input fields based on the N
 
 ## Installation
 
-This Angular component is available via bower. To install:
+This Angular component is available via bower and npm. To install:
 
 `bower install angular-tel-input --save`
+
+OR
+
+`npm install angular-tel-input --save`
 
 ## Usage
 
