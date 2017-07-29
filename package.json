@@ -1,8 +1,8 @@
 {
   "name": "angular-tel-input",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An angular.js component supporting 10-digit telephone input fields based on the North American Numbering Plan (does not support all phone conventions).",
-  "main": "dist/angular-tel-input.min.js",
+  "main": "src/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/carlosrymer/angular-tel-input"

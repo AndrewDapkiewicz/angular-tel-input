@@ -1,4 +1,4 @@
-(function() {
+(function(angular) {
   'use strict';
 
   var componentOptions = {
@@ -73,4 +73,4 @@
   angular.module('ngTelInput', [])
     .component('telInput', componentOptions)
     .filter('tel', telInputFilter);
-})();
+})(angular);
